@@ -1,7 +1,7 @@
 ﻿{
-  "versionCode": 3,
-  "versionName": "1.2",
+  "versionCode": 4,
+  "versionName": "1.3",
   "apkUrl": "https://raw.githubusercontent.com/drreo7777/apkkkkki/main/CompanionViewer.apk",
-  "releaseNotesAr": "تحديث جديد: تغيير اسم التطبيق لمصروفات عمر، إمكانية نسخ كود الوصول بلمسة واحدة، وعرض تاريخ ووقت الحسابات بالتفصيل.",
-  "releaseNotesEn": "New update: Changed app name to Omar's Expenses, one-tap code copying, and detailed account timestamps."
+  "releaseNotesAr": "إصلاح جذري لنظام التحديث: تسريع التحميل الفائق، منع انقطاع أو تعليق التنزيل، وضمان تثبيت التحديث بسلاسة بلمسة واحدة.",
+  "releaseNotesEn": "Fix: Super fast and stable in-app downloads, no more freezing or repeating modals."
 }
