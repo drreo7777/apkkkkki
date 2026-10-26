@@ -1,7 +1,7 @@
-{
-  "versionCode": 2,
-  "versionName": "1.1",
+﻿{
+  "versionCode": 3,
+  "versionName": "1.2",
   "apkUrl": "https://raw.githubusercontent.com/drreo7777/apkkkkki/main/CompanionViewer.apk",
-  "releaseNotesAr": "تحديث جديد يتضمن إظهار تاريخ وساعة آخر نشاط للحسابات ومزامنة تلقائية فائقة السرعة.",
-  "releaseNotesEn": "New update featuring account activity timestamp and instant auto-sync."
+  "releaseNotesAr": "تحديث جديد: تغيير اسم التطبيق لمصروفات عمر، إمكانية نسخ كود الوصول بلمسة واحدة، وعرض تاريخ ووقت الحسابات بالتفصيل.",
+  "releaseNotesEn": "New update: Changed app name to Omar's Expenses, one-tap code copying, and detailed account timestamps."
 }
