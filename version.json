@@ -1,7 +1,7 @@
 ﻿{
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5",
   "apkUrl": "https://raw.githubusercontent.com/drreo7777/apkkkkki/main/CompanionViewer.apk",
-  "releaseNotesAr": "تحديث جديد: بطاقات حسابات مدمجة ومصغرة، توقيت آخر تعديل دقيق تحت الرصيد، وحساب وقت التعديل الفعلي حتى عند تغيير معاملات قديمة.",
-  "releaseNotesEn": "New update: Compact account cards, accurate edit timestamp under balance, and real modification tracking."
+  "releaseNotesAr": "تحديث جديد: تسجيل التعديلات اليدوية للحسابات بالتاريخ والساعة بدقة متناهية وظهورها فورا تحت كل حساب.",
+  "releaseNotesEn": "New update: Instant timestamp updates for manual account changes and dark theme refinements."
 }
